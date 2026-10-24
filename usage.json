@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-connector-reference",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-connector-reference",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-connector-reference",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Pull every page from the bundled cursor reference provider",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:45:23.333995+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "2877734d51bc199c74de89888a582dcbe8984899c7d28eb962848921560ae864",
+    "manifestSha256": "5f5819b821e1965f9491c5daed31135495c140b1f51688fe04a85d5600770b2e"
+  },
+  "validationFiles": {
+    "src/index.mjs": "2877734d51bc199c74de89888a582dcbe8984899c7d28eb962848921560ae864"
+  }
+}
